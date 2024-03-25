@@ -1,0 +1,19 @@
+body {
+  background-color: #dfc5fe;
+}
+h1 {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h4 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.lyrics {
+  width: 600px;
+  padding-top: 30px;
+  font-size: 40px
+  font-family: Arial, Helvetica, sans-serif;
+}
